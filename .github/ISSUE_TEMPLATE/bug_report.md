@@ -7,6 +7,11 @@ assignees: cmadland
 
 ---
 
+**Which course contains the bug?**
+- Course Code and section e.g. LDRS 591 OL
+- Course title e.g. Scholarly Inquiry
+- Term e.g. SP2019
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
