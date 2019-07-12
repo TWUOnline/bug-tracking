@@ -10,9 +10,9 @@ assignees: cmadland
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
+**Location of the bug**
+Please provide a specific link to the page with the error:
+1. Go to [URL]
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
