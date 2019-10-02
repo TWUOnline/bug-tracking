@@ -22,4 +22,3 @@ Please provide a specific link to the page with the error, as well as where the 
  
 **Optional: Screenshots**  
 If applicable, add screenshots to help explain your problem.
- 
