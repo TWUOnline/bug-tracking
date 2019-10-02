@@ -12,7 +12,7 @@ assignees: cmadland
 ### URL
 
 ### Instructions
-- []
-- []
+- [ ]
+- [ ]
 
 Please upload required files as attachments.
