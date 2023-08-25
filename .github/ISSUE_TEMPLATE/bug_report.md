@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: bug
-assignees: cmadland, kmarjanovic, Jeff-TWU, MeeksonHundoo, meher-ahmed
+assignees: cmadland, Jeff-TWU, kmarjanovic, MeeksonHundoo, meher-ahmed
 
 ---
 
