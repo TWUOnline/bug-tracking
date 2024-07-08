@@ -3,7 +3,7 @@ name: Media Request
 about: Requesting media
 title: ''
 labels: Media Request
-assignees: Jeff-TWU, kmarjanovic, MaraChequer
+assignees: Jeff-TWU, kmarjanovic, cmadland, chloecwh
 
 ---
 
