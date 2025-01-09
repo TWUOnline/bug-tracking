@@ -3,7 +3,7 @@ name: Media Request
 about: Requesting media
 title: ''
 labels: Media Request
-assignees: kmarjanovic, cmadland, chloecwh
+assignees: kmarjanovic, cmadland, chloecwh, inoklim-twu
 
 ---
 
